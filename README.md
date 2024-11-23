@@ -1,6 +1,6 @@
 # EECE5639-Computer-Vision
 
-This repository contains the project and report for the EECE 5639 Computer Vision course by Professor David Rosen at Northeastern University.
+This repository contains the project and report for the EECE 5639 Computer Vision course by Professor David Rosen at Northeastern University; class of Spring 2024.
 
 ## Course Topics covered
 
