@@ -21,4 +21,4 @@ This repository contains the project and report for the EECE 5639 Computer Visio
 
 ## Note
 
-This repository is for educational purposes and showcases work completed during the course.
+This repository is for educational purposes only and showcases the work completed during the course.
